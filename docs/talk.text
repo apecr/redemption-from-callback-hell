@@ -1,0 +1,6 @@
+- Promises/A+
+    * Discovered in 1989
+    * Inspired by E
+    * Widely used outside JS
+
+    Read domenic/promises.md
