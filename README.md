@@ -1,7 +1,17 @@
 # redemption-from-callback-hell
 redemption-from-callback-hell
 
-
+- Asynchronous API
+    Problkem => blocking
+- In a callback, there is NO RETURN
+- In a callback, there is NO THROW
+- In a callback, there is NO STACK
+- Using callbacks, there is NO GUARANTEES
+- The future is ES6 Generators
+    * First-class coroutines
+    * Suspend execution context
+    * Small API
+    * Not available yet :(
 - Promises/A+
     * Discovered in 1989
     * Inspired by E
